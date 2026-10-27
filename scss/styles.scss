@@ -1,0 +1,3 @@
+// Punto de entrada. Compilar con: npx sass scss/styles.scss css/styles.css
+@use 'sass:color';
+@import 'fonts', 'variables', 'base', 'components', 'layout', 'responsive';
